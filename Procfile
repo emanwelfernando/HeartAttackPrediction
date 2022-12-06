@@ -1,0 +1,1 @@
+web gunicorn HeartAttackPrediction.wsgi:application --log-file -
